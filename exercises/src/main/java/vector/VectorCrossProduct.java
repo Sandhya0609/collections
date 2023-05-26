@@ -11,7 +11,7 @@ public class VectorCrossProduct {
     public Vector CrossProduct(Vector<Double> v1, Vector<Double> v2) {
         Vector<Double> v3 = new Vector<>();
         Double x = (v1.get(1) * v2.get(2)) - (v1.get(2) * v2.get(1));
-        Double y = (v1.get(2) * v2.get(0)) - (v1.get(0) * v2.get(2));
+        Double y = (v1.get(0) * v2.get(2)) - (v1.get(2) * v2.get(0));
         Double z = (v1.get(0) * v2.get(1)) - (v1.get(1) * v2.get(0));
         v3.add(0, x);
         v3.add(1, y);
