@@ -11,7 +11,8 @@ public class ReverseArray {
         //Creating Arraylist object//use the Object class that can hold values of any type
       List<Object> myData = new ArrayList<Object>();
 
-        //Adding elements to ArrayList
+        //Adding elements to ArrayList both numbers and strings
+
         myData.add("Java");
         myData.add("Is Number");
         myData.add(1);
