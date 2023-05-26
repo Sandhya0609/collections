@@ -4,5 +4,7 @@ package map.hashMap;
 //        Compare the performance of separate chaining and open addressing for collision handling.
 
 public class DemoCollisionHashMap {
+    public static void main(String[] args) {
 
+    }
 }
