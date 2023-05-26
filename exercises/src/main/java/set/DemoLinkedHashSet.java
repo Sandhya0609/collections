@@ -1,4 +1,4 @@
-package SetInterface;
+package set;
 //      Create a LinkedHashSet and perform the following operations:
 //        Add the strings "apple", "banana", "cherry", "date" to the LinkedHashSet.
 //        Print the elements of the LinkedHashSet.

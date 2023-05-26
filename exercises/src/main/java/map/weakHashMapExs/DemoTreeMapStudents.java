@@ -1,4 +1,4 @@
-package Map.weakHashMapExs;
+package map.weakHashMapExs;
 //Create a TreeMap object.
 //        Add several student names as keys and their corresponding grades as values to the TreeMap.
 //        Print all the student names and grades in ascending order of the student names.

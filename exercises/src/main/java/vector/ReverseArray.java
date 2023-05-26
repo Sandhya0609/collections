@@ -1,4 +1,4 @@
-package Vector;
+package vector;
 
 import java.util.ArrayList;
 import java.util.Collections;

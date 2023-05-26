@@ -1,4 +1,4 @@
-package Map.hashMap;
+package map.hashMap;
 //Hashmap Variations and Applications:
 //
 //        Implement a LinkedHashMap (preserves the order of insertion) using a Hashmap and a linked list.

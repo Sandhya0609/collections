@@ -1,6 +1,5 @@
-package Vector;
+package vector;
 
-import java.util.ArrayList;
 import java.util.Vector;
 
 //Find Maximum Value

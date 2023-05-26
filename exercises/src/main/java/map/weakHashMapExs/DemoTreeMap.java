@@ -1,4 +1,4 @@
-package Map.weakHashMapExs;
+package map.weakHashMapExs;
 
 import java.util.Iterator;
 import java.util.Map;

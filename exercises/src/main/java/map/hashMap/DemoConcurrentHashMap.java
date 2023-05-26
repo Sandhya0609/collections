@@ -1,4 +1,4 @@
-package Map.hashMap;
+package map.hashMap;
 //Implement a concurrent Hashmap that supports thread-safe operations.
 //        Explore and understand the internal implementation of Hashmaps in your programming language of choice.
 //        Research and implement optimizations for Hashmaps (e.g., open addressing with cuckoo hashing, Robin Hood hashing)

@@ -1,4 +1,4 @@
-package SetInterface;//Create a HashSet and perform the following operations:
+package set;//Create a HashSet and perform the following operations:
 //
 //        Add the numbers 1, 2, 3, 4, 5 to the HashSet.
 //        Check if the HashSet contains the number 3.

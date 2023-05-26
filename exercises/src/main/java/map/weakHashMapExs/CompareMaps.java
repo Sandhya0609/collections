@@ -1,4 +1,4 @@
-package Map.weakHashMapExs;
+package map.weakHashMapExs;
 //Create a WeakHashMap and a TreeMap object.
 //        Add a few elements to both data structures.
 //        Perform operations such as adding, removing, and retrieving elements from both data structures.

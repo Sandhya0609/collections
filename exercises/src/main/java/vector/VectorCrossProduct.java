@@ -1,4 +1,4 @@
-package Vector;
+package vector;
 
 //Vector Cross Product
 //Write a method in the Vector class that calculates the cross product of two vectors.
