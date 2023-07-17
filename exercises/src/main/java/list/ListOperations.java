@@ -16,7 +16,7 @@ package list;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ListOperations {
+class DemoList1 {
   List<Integer> list1=new ArrayList<Integer>();
   private ArrayList<Integer> saveEvenNumbers(int n) {
       list1 = new ArrayList<Integer>();
@@ -49,7 +49,7 @@ public class ListOperations {
    }
 
     public static void main(String[] args) {
-        ListOperations list = new ListOperations();
+        DemoList1 list = new DemoList1();
         list.saveEvenNumbers(4);
         list.printEvenNumbers();
         System.out.println("number is not present: "+list.isNumberPresent(1));
