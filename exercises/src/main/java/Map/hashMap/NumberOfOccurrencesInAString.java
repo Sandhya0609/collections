@@ -21,12 +21,12 @@ public class NumberOfOccurrencesInAString {
                     find++;
             }
             if (find == 1)
-                System.out.println("Number of occurrences of " + str.charAt(i) + " is :" + count[str.charAt(i)]);
+                System.out.println("Number of occurrences of letter '" + str.charAt(i) + "' is :" + count[str.charAt(i)]);
 
 
         }
     }
-
+//Main method
     public static void main(String args[]){
         String str = "this is your first round this is not a final round ";
         getRepeatingChar(str);
