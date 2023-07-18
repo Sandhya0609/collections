@@ -1,12 +1,13 @@
 package map.hashMap;
 
 import java.util.HashMap;
+import java.util.Map;
 
 public class LetterOccurrencesHashMap {
         public static void main(String[] args) {
             String inputString = "this is your first round this is not a final round ";
 
-            HashMap<Character, Integer> letterCounts = new HashMap<>();
+            Map<Character, Integer> letterCounts = new HashMap<>();
 
             // Remove non-letter characters and convert the string to lowercase
             //inputString = inputString.replaceAll("[^a-zA-Z]", "").toLowerCase();
